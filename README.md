@@ -1,5 +1,9 @@
 ### E aí Parceirooo!👋 Eu sou Lúcio José 🤓
 
+
+Hi Partner, welcome to my Profile-Github, I'm Lúcio José, I've been a programmer for 4 years, passionate about developing applications. The technologies that I master and use for front-end development are: ReactJs and Nextjs (beginner),for backend development I use NodeJS which is my current focus and my biggest skill. I enjoy working in a team and solving challenging problems.
+
+
 <div align="center">
   <a href="https://github.com/Lucio-jose">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucio-jose&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
