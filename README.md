@@ -1,7 +1,7 @@
 ### E aí Parceirooo!👋 Eu sou Lúcio José 🤓
 
 
-Welcome to my Profile-Github, I'm Lúcio José, I've been a programmer for 4 years, passionate about developing applications. The technologies that I master and use for front-end development are: ReactJs and Nextjs (beginner),for backend development I use NodeJS which is my current focus and my biggest skill. I enjoy working in a team and solving challenging problems.
+Welcome to my Profile-Github, I'm Lúcio José, I've been a programmer, passionate about developing applications. The technologies that I master and use for front-end development are: ReactJs and Nextjs (beginner),for backend development I use NodeJS which is my current focus and my biggest skill. I enjoy working in a team and solving challenging problems.
 
 
 <div align="center">
